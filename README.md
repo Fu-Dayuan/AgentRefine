@@ -1,5 +1,5 @@
 
- # <div align="center"> <img src="./picture/refine.png" width="5%"> (ICLR2025) AgentRefine: Enhancing Agent Generalization through Refinement Tuning<div>
+ # <div align="center"> <img src="./picture/refine.png" width="5%">  AgentRefine: Enhancing Agent Generalization through Refinement Tuning<div>
 
 
 
