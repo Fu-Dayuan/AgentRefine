@@ -41,10 +41,12 @@ We provided our training data in HuggingFace
 ## Citation
 Please kindly cite our paper if it helps your research:
 ```bibtex
-@article{fu2025agentrefine,
+@inproceedings{
+fu2025agentrefine,
 title={AgentRefine: Enhancing Agent Generalization through Refinement Tuning},
-author={Fu, Dayuan and He, Keqing and Wang, Yejie and Hong, Wentao and Gongque, Zhuoma and Zeng, Weihao and Wang, Wei and Wang, Jingang and Cai, Xunliang and Xu, Weiran},
-journal={arXiv preprint arXiv:2501.01702},
-year={2025}
+author={Dayuan Fu and Keqing He and Yejie Wang and Wentao Hong and Zhuoma GongQue and Weihao Zeng and Wei Wang and Jingang Wang and Xunliang Cai and Weiran Xu},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=FDimWzmcWn}
 }
 ```
