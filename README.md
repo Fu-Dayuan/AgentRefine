@@ -36,7 +36,7 @@ We provided our training data in HuggingFace
 ## 📊 Results
 The performance comparison of AgentRefine and other methods across different families and sizes.
 
-<table>
+<table style="width:80%">
 <thead>
 <tr>
  <th align="center" rowspan="2">Method</th> <th align="center" colspan="2">Alfworld</th> <th align="center" colspan="2">BabyAI</th><th align="center" colspan="2">SciWorld</th><th align="center" colspan="2">PDDL</th><th align="center" colspan="2">Jericho</th>
