@@ -5,9 +5,6 @@
   <a>
     <img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue">
   </a>
- <a>
-   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue">
- </a>
   <a href="https://arxiv.org/abs/2501.01702">
     <img src="https://img.shields.io/badge/arXiv-2501.01702-b31b1b.svg" alt="arXiv">
   </a>
@@ -27,7 +24,7 @@ Code for the Paper "[AgentRefine: Enhancing Agent Generalization through Refinem
 - [📊 Results](https://github.com/Fu-Dayuan/AgentRefine/blob/main/README.md#-results)
 - [📖 Citation](https://github.com/Fu-Dayuan/AgentRefine/blob/main/README.md#-citation)
 
-## 💥 News
+## 💥 News 💥
 - [01/2025] 🔥 Our paper has been accepted by **ICLR 2025**. 
 
 - [01/2025] 🔥 We will release our model, inference code in one month! 
@@ -39,7 +36,7 @@ We introduce **AgentRefine**, an agent synthesis framework that enables models t
 
 <img src="./picture/AgentRefine.png">
 
-## ✈️ Training Data
+## 📝 Training Data
 
 We provided our training data in HuggingFace:
 
