@@ -1,12 +1,31 @@
 
  # <div align="center"> <img src="./picture/refine.png" width="5%">  AgentRefine: Enhancing Agent Generalization through Refinement Tuning<div>
 
-
-
 <div align="center">
-  <a><img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue"></a>
-  <a href="https://arxiv.org/pdf/2501.01702" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
+  <a>
+    <img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue">
+  </a>
+ <a>
+   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue">
+ </a>
+  <a href="https://arxiv.org/abs/2501.01702">
+    <img src="https://img.shields.io/badge/arXiv-2501.01702-b31b1b.svg" alt="arXiv">
+  </a>
 </div>
+
+
+
+Code for the Paper "[AgentRefine: Enhancing Agent Generalization through Refinement Tuning](https://arxiv.org/abs/2501.01702)".
+
+🔔 If you have any questions or suggestions, please don't hesitate to let us know. You can post an issue on this repository.
+
+## Outlines
+
+- [💥 News 💥](https://github.com/Fu-Dayuan/AgentRefine/blob/main/README.md#-news-)
+- [💡 Overview](https://github.com/Fu-Dayuan/AgentRefine/blob/main/README.md#-overview)
+- [📝 Training Data](https://github.com/Fu-Dayuan/AgentRefine/blob/main/README.md#-training-data)
+- [📊 Results](https://github.com/Fu-Dayuan/AgentRefine/blob/main/README.md#-results)
+- [📖 Citation](https://github.com/Fu-Dayuan/AgentRefine/blob/main/README.md#-citation)
 
 ## 💥 News
 - [01/2025] 🔥 Our paper has been accepted by **ICLR 2025**. 
@@ -20,21 +39,20 @@ We introduce **AgentRefine**, an agent synthesis framework that enables models t
 
 <img src="./picture/AgentRefine.png">
 
-
 ## ✈️ Training Data
 
-We provided our training data in HuggingFace
+We provided our training data in HuggingFace:
 
-[AgentRefine-gpt4o-32000](https://huggingface.co/datasets/fudayuan/AgentRefine-gpt4o-32000) 
+- [AgentRefine-gpt4o-32000](https://huggingface.co/datasets/fudayuan/AgentRefine-gpt4o-32000)
 
-[AgentRefine-gpt4o-64000](https://huggingface.co/datasets/fudayuan/AgentRefine-gpt4o-64000) 
+- [AgentRefine-gpt4o-64000](https://huggingface.co/datasets/fudayuan/AgentRefine-gpt4o-64000) 
 
-[AgentRefine-deepseek-4000](https://huggingface.co/datasets/fudayuan/AgentRefine-deepseek-4000)
+- [AgentRefine-deepseek-4000](https://huggingface.co/datasets/fudayuan/AgentRefine-deepseek-4000)
 
 ⭐ **We will also provide inference code and model soon! Thanks for waiting!**
 
 ## 📊 Results
-The performance comparison of AgentRefine and other methods across different families and sizes.The underlined text indicates that the training data is sampled in the same environment as the task and is considered as held-in evaluation.
+The performance comparison of AgentRefine and other methods across different families and sizes.(The underlined text indicates that the training data is sampled in the same environment as the task and is considered as held-in evaluation.)
 
 <table>
 <thead>
