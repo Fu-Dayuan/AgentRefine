@@ -2,12 +2,9 @@
  # <div align="center"> <img src="./picture/refine.png" width="5%">  AgentRefine: Enhancing Agent Generalization through Refinement Tuning<div>
 
 <div align="center">
-  <a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-blue">
-  </a>
-  <a href="https://arxiv.org/abs/2501.01702">
-    <img src="https://img.shields.io/badge/arXiv-2501.01702-b31b1b.svg" alt="arXiv">
-  </a>
+  <a><img alt="Static Badge" src="https://img.shields.io/badge/made_with-Python-green"></a>
+  <a href="https://arxiv.org/abs/2501.01702"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2501.01702-b31b1b.svg"></a>
+ <a href="https://agentrefine.github.io"><img src="https://img.shields.io/badge/Website-agentrefine.github.io-blue" alt="Website"></a>
 </div>
 
 
