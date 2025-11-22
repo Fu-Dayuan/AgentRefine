@@ -24,8 +24,6 @@ Code for the Paper "[AgentRefine: Enhancing Agent Generalization through Refinem
 ## 💥 News 💥
 - [01/2025] 🔥 Our paper has been accepted by **ICLR 2025**. 
 
-- [01/2025] 🔥 We will release our model, inference code in one month! 
-
 
 
 ## 💡 Overview
